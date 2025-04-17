@@ -26,4 +26,10 @@ This repository contains a Filter Analysis Tool created using MATLAB App Designe
    e) Play the filtered audio signal for auditory feedback
 
 
+# Requirements
+
+MATLAB
+MATLAB App Designer
+
+Make sure that the 'Audio Files' folder and the 'FRApp.mlapp' file are within the same directory
    
