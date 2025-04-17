@@ -1,9 +1,8 @@
 # Filter Analysis Tool
-# Filter Analysis Tool in MATLAB
 
 This repository contains a Filter Analysis Tool created using MATLAB App Designer that allows for the generation of frequency, impulse, phase responses and pole-zero plots for different types of filters based upon user-provided parameters.
 
-# Features
+### Features
 
 1) Load test signals (Impulse, SineSweep, WhiteNoise)
 
@@ -25,8 +24,12 @@ This repository contains a Filter Analysis Tool created using MATLAB App Designe
 
    e) Play the filtered audio signal for auditory feedback
 
+### Use Case
 
-# Requirements
+Ideal for DSP education, audio signal analysis, and filter design validation. Quickly experiment with different filters and immediately see and hear the results.
+
+
+### Requirements
 
 MATLAB
 MATLAB App Designer
