@@ -2,6 +2,8 @@
 
 This repository contains a Filter Analysis Tool created using MATLAB App Designer that allows for the generation of frequency, impulse, phase responses and pole-zero plots for different types of filters based upon user-provided parameters.
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ShaunakAudioAlchemy/filteranalysismatlab&project=https://github.com/ShaunakAudioAlchemy/filteranalysismatlab/blob/main/FRApp.mlapp)
+
 ### Features
 
 1) Load test signals (Impulse, SineSweep, WhiteNoise)
