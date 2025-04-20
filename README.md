@@ -33,7 +33,8 @@ Ideal for DSP education, audio signal analysis, and filter design validation. Qu
 
 ### To run the program locally:
 
-MATLAB
+MATLAB 
+
 MATLAB App Designer
 
 Make sure that the 'Audio Files' folder and the 'FRApp.mlapp' file are within the same directory
