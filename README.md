@@ -4,7 +4,7 @@ This repository contains a Filter Analysis Tool created using MATLAB App Designe
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ShaunakAudioAlchemy/filteranalysismatlab&project=https://github.com/ShaunakAudioAlchemy/filteranalysismatlab/blob/main/FRApp.mlapp)
 
-### Features
+### Features:
 
 1) Load test signals (Impulse, SineSweep, WhiteNoise)
 
@@ -26,12 +26,12 @@ This repository contains a Filter Analysis Tool created using MATLAB App Designe
 
    e) Play the filtered audio signal for auditory feedback
 
-### Use Case
+### Use Case:
 
 Ideal for DSP education, audio signal analysis, and filter design validation. Quickly experiment with different filters and immediately see and hear the results.
 
 
-### Requirements
+### To run the program locally:
 
 MATLAB
 MATLAB App Designer
